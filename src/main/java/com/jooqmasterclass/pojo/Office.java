@@ -1,4 +1,4 @@
-package com.mydeveloperplanet.myjooqplanet.pojo;
+package com.jooqmasterclass.pojo;
 
 import java.io.Serializable;
 

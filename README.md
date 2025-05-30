@@ -1,7 +1,11 @@
-# MyJooqPlanet
+# JooqMasterclass
 
-The corresponding blog posts can be found here: 
+Implémentation avec Spring Boot / Liquibase / Docker / Postgresql du livre Jooq Masterclass :
 
-https://mydeveloperplanet.com/2024/09/25/integrate-spring-boot-with-jooq-liquibase-and-testcontainers/
+https://github.com/PacktPublishing/jOOQ-Masterclass/tree/master
 
-https://mydeveloperplanet.com/2024/11/06/fetching-data-from-one-to-one-one-to-many-and-many-to-many-relationships-with-jooq/
+# Chap 1 - Starting jooQ and Spring Boot
+
+```bash
+curl -X GET http://localhost:8181/officesInTerritory?territory=Japan | jq.exe
+```

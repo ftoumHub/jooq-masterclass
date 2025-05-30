@@ -1,4 +1,4 @@
-package com.mydeveloperplanet.myjooqplanet.config;
+package com.jooqmasterclass.config;
 
 import org.jooq.DSLContext;
 import org.jooq.SQLDialect;

@@ -1,9 +1,9 @@
-package com.mydeveloperplanet.myjooqplanet.repository;
+package com.jooqmasterclass.repository;
 
 
 import java.util.List;
 
-import com.mydeveloperplanet.myjooqplanet.pojo.Office;
+import com.jooqmasterclass.pojo.Office;
 import org.jooq.DSLContext;
 import static org.jooq.impl.DSL.field;
 import static org.jooq.impl.DSL.table;

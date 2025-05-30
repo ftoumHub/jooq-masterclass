@@ -1,9 +1,9 @@
-package com.mydeveloperplanet.myjooqplanet.controller;
+package com.jooqmasterclass.controller;
 
 import java.util.List;
 
-import com.mydeveloperplanet.myjooqplanet.pojo.Office;
-import com.mydeveloperplanet.myjooqplanet.service.ClassicModelsService;
+import com.jooqmasterclass.pojo.Office;
+import com.jooqmasterclass.service.ClassicModelsService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

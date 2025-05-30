@@ -1,10 +1,10 @@
-package com.mydeveloperplanet.myjooqplanet.service;
+package com.jooqmasterclass.service;
 
 
 import java.util.List;
 
-import com.mydeveloperplanet.myjooqplanet.pojo.Office;
-import com.mydeveloperplanet.myjooqplanet.repository.ClassicModelsRepository;
+import com.jooqmasterclass.pojo.Office;
+import com.jooqmasterclass.repository.ClassicModelsRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
